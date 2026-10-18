@@ -1,0 +1,5 @@
+{
+  "Statistical Officer": ["Sampling Theory", "Data Governance", "National Accounts", "Survey Design"],
+  "Survey Investigator": ["Field Data Collection", "CAPI Tools", "Sampling Theory", "Data Quality Checks"],
+  "Data Analyst": ["Data Governance", "Statistical Software (R/Python)", "GIS Mapping", "National Accounts"]
+}

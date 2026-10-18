@@ -1,0 +1,11 @@
+[
+  { "id": "c1", "title": "Foundations of Sampling Theory", "skill": "Sampling Theory", "provider": "iGOT Karmayogi", "duration_hrs": 6 },
+  { "id": "c2", "title": "Data Governance for Public Institutions", "skill": "Data Governance", "provider": "iGOT Karmayogi", "duration_hrs": 4 },
+  { "id": "c3", "title": "National Accounts Statistics 101", "skill": "National Accounts", "provider": "iGOT Karmayogi", "duration_hrs": 8 },
+  { "id": "c4", "title": "Survey Design & Questionnaire Development", "skill": "Survey Design", "provider": "iGOT Karmayogi", "duration_hrs": 5 },
+  { "id": "c5", "title": "CAPI Tools for Field Investigators", "skill": "CAPI Tools", "provider": "iGOT Karmayogi", "duration_hrs": 3 },
+  { "id": "c6", "title": "Field Data Collection Best Practices", "skill": "Field Data Collection", "provider": "iGOT Karmayogi", "duration_hrs": 4 },
+  { "id": "c7", "title": "Data Quality Assurance Techniques", "skill": "Data Quality Checks", "provider": "iGOT Karmayogi", "duration_hrs": 3 },
+  { "id": "c8", "title": "Python & R for Official Statistics", "skill": "Statistical Software (R/Python)", "provider": "iGOT Karmayogi", "duration_hrs": 10 },
+  { "id": "c9", "title": "GIS Mapping for Statistical Analysis", "skill": "GIS Mapping", "provider": "iGOT Karmayogi", "duration_hrs": 6 }
+]
