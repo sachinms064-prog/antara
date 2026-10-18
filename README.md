@@ -1,4 +1,4 @@
-# ANTARA — AI Competency Intelligence Platform (SIH26101 prototype)
+# ANTARA — AI Competency Intelligence Platform 
 
 Three services, run separately. Open **three separate terminal (PowerShell) windows**
 and leave all three running at the same time — don't close or reuse any of them.
